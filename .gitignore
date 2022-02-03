@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+/TaskListAPI/__pycache__
+/TasksAPI/__pycache__
+/TasksAPI/migrations
+config.py
+manage.py
